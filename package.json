@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-readme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "auto generator a readme file for hexo blog",
   "main": "index.js",
   "scripts": {
