@@ -1,5 +1,5 @@
 # hexo-generator-readme
-[![NPM version](https://badge.fury.io/js/hexo-generator-index.svg)](https://www.npmjs.com/package/hexo-generator-readme)
+[![NPM version](https://badge.fury.io/js/hexo-generator-readme.svg)](https://www.npmjs.com/package/hexo-generator-readme)
 
 ##### [中文](./README_CN.md)
 

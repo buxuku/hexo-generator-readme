@@ -1,6 +1,6 @@
 # hexo博客系统生成Readme文件插件
 
-[![NPM version](https://badge.fury.io/js/hexo-generator-index.svg)](https://www.npmjs.com/package/hexo-generator-readme)
+[![NPM version](https://badge.fury.io/js/hexo-generator-readme.svg)](https://www.npmjs.com/package/hexo-generator-readme)
 
 自动为hexo博客生成一个readme文件,你可以方便地把它放在仓库里面用来做展示.
 
