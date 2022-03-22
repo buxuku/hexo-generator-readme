@@ -23,7 +23,7 @@ npm i hexo-generator-readme -S
 在根目录下面的_config.yml文件中添加或者修改以下配置
 
 ```yaml
-generator-readme:
+generator_readme:
   categories:
     name: 1
   order_by: ''

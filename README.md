@@ -26,7 +26,7 @@ npm i hexo-generator-readme -S
 Add or modify the following sections to you root _config.yml file:
 
 ```yaml
-generator-readme:
+generator_readme:
   categories:
     name: 1
   order_by: ''
